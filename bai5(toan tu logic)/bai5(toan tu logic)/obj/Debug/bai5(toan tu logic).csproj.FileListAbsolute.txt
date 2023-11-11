@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\bai5(toan tu logic)\bai5(toan tu logic)\bin\Debug\bai5(toan tu logic).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\bai5(toan tu logic)\bai5(toan tu logic)\bin\Debug\bai5(toan tu logic).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai5(toan tu logic)\bai5(toan tu logic)\bin\Debug\bai5(toan tu logic).pdb
+E:\Hoc-C#\C# ga lai lap trinh\bai5(toan tu logic)\bai5(toan tu logic)\obj\Debug\bai5(toan tu logic).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai5(toan tu logic)\bai5(toan tu logic)\obj\Debug\bai5(toan tu logic).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai5(toan tu logic)\bai5(toan tu logic)\obj\Debug\bai5(toan tu logic).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai5(toan tu logic)\bai5(toan tu logic)\obj\Debug\bai5(toan tu logic).pdb

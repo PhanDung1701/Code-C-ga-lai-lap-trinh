@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\bai10(do-while)\bin\Debug\bai10(do-while).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\bai10(do-while)\bin\Debug\bai10(do-while).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai10(do-while)\bin\Debug\bai10(do-while).pdb
+E:\Hoc-C#\C# ga lai lap trinh\bai10(do-while)\obj\Debug\bai10(do-while).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai10(do-while)\obj\Debug\bai10(do-while).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai10(do-while)\obj\Debug\bai10(do-while).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai10(do-while)\obj\Debug\bai10(do-while).pdb

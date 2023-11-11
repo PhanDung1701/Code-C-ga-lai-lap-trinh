@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\bai3\bai3_2\bin\Debug\bai3_2.exe.config
+E:\Hoc-C#\C# ga lai lap trinh\bai3\bai3_2\bin\Debug\bai3_2.exe
+E:\Hoc-C#\C# ga lai lap trinh\bai3\bai3_2\bin\Debug\bai3_2.pdb
+E:\Hoc-C#\C# ga lai lap trinh\bai3\bai3_2\obj\Debug\bai3_2(các phép toán C#).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai3\bai3_2\obj\Debug\bai3_2(các phép toán C#).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai3\bai3_2\obj\Debug\bai3_2.exe
+E:\Hoc-C#\C# ga lai lap trinh\bai3\bai3_2\obj\Debug\bai3_2.pdb

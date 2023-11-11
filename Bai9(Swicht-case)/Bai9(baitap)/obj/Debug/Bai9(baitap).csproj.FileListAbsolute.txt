@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(baitap)\bin\Debug\Bai9(baitap).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(baitap)\bin\Debug\Bai9(baitap).exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(baitap)\bin\Debug\Bai9(baitap).pdb
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(baitap)\obj\Debug\Bai9(baitap).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(baitap)\obj\Debug\Bai9(baitap).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(baitap)\obj\Debug\Bai9(baitap).exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(baitap)\obj\Debug\Bai9(baitap).pdb

@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\Bai11(For)\Bai11(For each)\bin\Debug\Bai11(For each).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\Bai11(For)\Bai11(For each)\bin\Debug\Bai11(For each).exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai11(For)\Bai11(For each)\bin\Debug\Bai11(For each).pdb
+E:\Hoc-C#\C# ga lai lap trinh\Bai11(For)\Bai11(For each)\obj\Debug\Bai11(For each).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai11(For)\Bai11(For each)\obj\Debug\Bai11(For each).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai11(For)\Bai11(For each)\obj\Debug\Bai11(For each).exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai11(For)\Bai11(For each)\obj\Debug\Bai11(For each).pdb

@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\Bai8(toan tu 3 ngoi)\Bai8(toan tu 3 ngoi)\bin\Debug\Bai8(toan tu 3 ngoi).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\Bai8(toan tu 3 ngoi)\Bai8(toan tu 3 ngoi)\bin\Debug\Bai8(toan tu 3 ngoi).exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai8(toan tu 3 ngoi)\Bai8(toan tu 3 ngoi)\bin\Debug\Bai8(toan tu 3 ngoi).pdb
+E:\Hoc-C#\C# ga lai lap trinh\Bai8(toan tu 3 ngoi)\Bai8(toan tu 3 ngoi)\obj\Debug\Bai8(toan tu 3 ngoi).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai8(toan tu 3 ngoi)\Bai8(toan tu 3 ngoi)\obj\Debug\Bai8(toan tu 3 ngoi).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai8(toan tu 3 ngoi)\Bai8(toan tu 3 ngoi)\obj\Debug\Bai8(toan tu 3 ngoi).exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai8(toan tu 3 ngoi)\Bai8(toan tu 3 ngoi)\obj\Debug\Bai8(toan tu 3 ngoi).pdb

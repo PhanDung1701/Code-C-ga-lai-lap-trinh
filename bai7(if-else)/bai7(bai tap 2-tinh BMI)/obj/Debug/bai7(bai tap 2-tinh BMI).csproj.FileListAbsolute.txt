@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap 2-tinh BMI)\bin\Debug\bai7(bai tap 2-tinh BMI).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap 2-tinh BMI)\bin\Debug\bai7(bai tap 2-tinh BMI).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap 2-tinh BMI)\bin\Debug\bai7(bai tap 2-tinh BMI).pdb
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap 2-tinh BMI)\obj\Debug\bai7(bai tap 2-tinh BMI).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap 2-tinh BMI)\obj\Debug\bai7(bai tap 2-tinh BMI).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap 2-tinh BMI)\obj\Debug\bai7(bai tap 2-tinh BMI).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap 2-tinh BMI)\obj\Debug\bai7(bai tap 2-tinh BMI).pdb

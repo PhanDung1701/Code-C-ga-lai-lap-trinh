@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap-ngay in thang)\bin\Debug\bai7(bai tap-ngay in thang).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap-ngay in thang)\bin\Debug\bai7(bai tap-ngay in thang).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap-ngay in thang)\bin\Debug\bai7(bai tap-ngay in thang).pdb
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap-ngay in thang)\obj\Debug\bai7(bai tap-ngay in thang).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap-ngay in thang)\obj\Debug\bai7(bai tap-ngay in thang).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap-ngay in thang)\obj\Debug\bai7(bai tap-ngay in thang).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(bai tap-ngay in thang)\obj\Debug\bai7(bai tap-ngay in thang).pdb

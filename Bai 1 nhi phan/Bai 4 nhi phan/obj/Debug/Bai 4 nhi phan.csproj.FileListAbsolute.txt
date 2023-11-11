@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\Bai 1 nhi phan\Bai 4 nhi phan\bin\Debug\Bai 4 nhi phan.exe.config
+E:\Hoc-C#\C# ga lai lap trinh\Bai 1 nhi phan\Bai 4 nhi phan\bin\Debug\Bai 4 nhi phan.exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai 1 nhi phan\Bai 4 nhi phan\bin\Debug\Bai 4 nhi phan.pdb
+E:\Hoc-C#\C# ga lai lap trinh\Bai 1 nhi phan\Bai 4 nhi phan\obj\Debug\Bai 4 nhi phan.csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai 1 nhi phan\Bai 4 nhi phan\obj\Debug\Bai 4 nhi phan.csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai 1 nhi phan\Bai 4 nhi phan\obj\Debug\Bai 4 nhi phan.exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai 1 nhi phan\Bai 4 nhi phan\obj\Debug\Bai 4 nhi phan.pdb

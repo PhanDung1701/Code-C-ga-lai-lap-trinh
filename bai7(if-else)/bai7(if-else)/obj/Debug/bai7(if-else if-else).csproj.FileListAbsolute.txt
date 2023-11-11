@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(if-else)\bin\Debug\bai7(if-else).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(if-else)\bin\Debug\bai7(if-else).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(if-else)\bin\Debug\bai7(if-else).pdb
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(if-else)\obj\Debug\bai7(if-else if-else).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(if-else)\obj\Debug\bai7(if-else if-else).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(if-else)\obj\Debug\bai7(if-else).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\bai7(if-else)\obj\Debug\bai7(if-else).pdb

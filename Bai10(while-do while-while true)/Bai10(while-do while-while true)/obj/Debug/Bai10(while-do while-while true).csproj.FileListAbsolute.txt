@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\Bai10(while-do while-while true)\Bai10(while-do while-while true)\bin\Debug\Bai10(while-do while-while true).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\Bai10(while-do while-while true)\Bai10(while-do while-while true)\bin\Debug\Bai10(while-do while-while true).exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai10(while-do while-while true)\Bai10(while-do while-while true)\bin\Debug\Bai10(while-do while-while true).pdb
+E:\Hoc-C#\C# ga lai lap trinh\Bai10(while-do while-while true)\Bai10(while-do while-while true)\obj\Debug\Bai10(while-do while-while true).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai10(while-do while-while true)\Bai10(while-do while-while true)\obj\Debug\Bai10(while-do while-while true).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai10(while-do while-while true)\Bai10(while-do while-while true)\obj\Debug\Bai10(while-do while-while true).exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai10(while-do while-while true)\Bai10(while-do while-while true)\obj\Debug\Bai10(while-do while-while true).pdb

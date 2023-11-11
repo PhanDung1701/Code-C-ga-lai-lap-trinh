@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\Bai7(baitap-quy trong nam)\bin\Debug\Bai7(baitap-quy trong nam).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\Bai7(baitap-quy trong nam)\bin\Debug\Bai7(baitap-quy trong nam).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\Bai7(baitap-quy trong nam)\bin\Debug\Bai7(baitap-quy trong nam).pdb
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\Bai7(baitap-quy trong nam)\obj\Debug\Bai7(baitap-quy trong nam).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\Bai7(baitap-quy trong nam)\obj\Debug\Bai7(baitap-quy trong nam).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\Bai7(baitap-quy trong nam)\obj\Debug\Bai7(baitap-quy trong nam).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai7(if-else)\Bai7(baitap-quy trong nam)\obj\Debug\Bai7(baitap-quy trong nam).pdb

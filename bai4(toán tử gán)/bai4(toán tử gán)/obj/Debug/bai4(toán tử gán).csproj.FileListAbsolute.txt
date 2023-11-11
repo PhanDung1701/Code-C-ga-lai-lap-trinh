@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\bai4(toán tử gán)\bai4(toán tử gán)\bin\Debug\bai4(toán tử gán).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\bai4(toán tử gán)\bai4(toán tử gán)\bin\Debug\bai4(toán tử gán).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai4(toán tử gán)\bai4(toán tử gán)\bin\Debug\bai4(toán tử gán).pdb
+E:\Hoc-C#\C# ga lai lap trinh\bai4(toán tử gán)\bai4(toán tử gán)\obj\Debug\bai4(toán tử gán).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai4(toán tử gán)\bai4(toán tử gán)\obj\Debug\bai4(toán tử gán).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\bai4(toán tử gán)\bai4(toán tử gán)\obj\Debug\bai4(toán tử gán).exe
+E:\Hoc-C#\C# ga lai lap trinh\bai4(toán tử gán)\bai4(toán tử gán)\obj\Debug\bai4(toán tử gán).pdb

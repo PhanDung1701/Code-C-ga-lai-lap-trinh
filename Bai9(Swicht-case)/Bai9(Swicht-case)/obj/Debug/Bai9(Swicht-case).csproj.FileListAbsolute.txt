@@ -1,0 +1,7 @@
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(Swicht-case)\obj\Debug\Bai9(Swicht-case).csproj.AssemblyReference.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(Swicht-case)\obj\Debug\Bai9(Swicht-case).csproj.CoreCompileInputs.cache
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(Swicht-case)\bin\Debug\Bai9(Swicht-case).exe.config
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(Swicht-case)\bin\Debug\Bai9(Swicht-case).exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(Swicht-case)\bin\Debug\Bai9(Swicht-case).pdb
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(Swicht-case)\obj\Debug\Bai9(Swicht-case).exe
+E:\Hoc-C#\C# ga lai lap trinh\Bai9(Swicht-case)\Bai9(Swicht-case)\obj\Debug\Bai9(Swicht-case).pdb
